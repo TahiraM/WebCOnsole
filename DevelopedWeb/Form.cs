@@ -26,7 +26,7 @@ namespace DevelopedWeb
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hello World!");
-                Console.WriteLine(" hello.");
+                await context.Response.WriteAsync("what am i doing");
             });
         }
     }
