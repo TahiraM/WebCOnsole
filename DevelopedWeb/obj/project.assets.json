@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tahiramahmood/Documents/_Git/DevelopedWeb/DevelopedWeb.csproj",
+      "projectUniqueName": "/Users/tahiramahmood/Documents/_Git/WebCOnsole/DevelopedWeb/DevelopedWeb.csproj",
       "projectName": "DevelopedWeb",
-      "projectPath": "/Users/tahiramahmood/Documents/_Git/DevelopedWeb/DevelopedWeb.csproj",
+      "projectPath": "/Users/tahiramahmood/Documents/_Git/WebCOnsole/DevelopedWeb/DevelopedWeb.csproj",
       "packagesPath": "/Users/tahiramahmood/.nuget/packages/",
-      "outputPath": "/Users/tahiramahmood/Documents/_Git/DevelopedWeb/obj/",
+      "outputPath": "/Users/tahiramahmood/Documents/_Git/WebCOnsole/DevelopedWeb/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
